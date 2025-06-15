@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Enviar notificación a ntfy.sh
         run: |
-          curl -d "Se ha subido código al repositorio a la rama main 🚀" ntfy.sh/devops-itla
+          curl -d "Joaquin Pichardo subio codigo a su rama main. E e e e e e e e e e e e." ntfy.sh/devops-itla
